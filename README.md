@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CSC 335 -- Exceptions and Documentation
 
 For your next project, you will solve the issues that many of you pointed out via your questions: What should we do when the parameters to our methods are invalid?
@@ -46,3 +47,9 @@ Do note that this repository is empty of Java code or an Eclipse project. Add yo
 ## Submission
 
 The last commit of your code to GitHub prior to the deadline will be your graded submission.
+=======
+# MastermindGameProject
+a text based user interface mastermind game 
+
+This was created in a computer science class.  The idea here was to create a Mpdel View Controller design that creates modularity in the code and lets the developer change certain modules without it affecting the other modules.
+>>>>>>> refs/remotes/origin/master
